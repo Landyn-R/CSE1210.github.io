@@ -1,6 +1,6 @@
 img #components {
   width: 100px;
 }
-table, th {
+th, td {
   border: 1px solid black;
 }
